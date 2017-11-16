@@ -41,6 +41,7 @@
     - [4-16. 행 축(row axis) 기준, 아이템 콘텐츠 정렬](#4-16-행-축row-axis-기준-아이템-콘텐츠-정렬)
     - [4-17. 열 축(column axis) 기준, 아이템 콘텐츠 정렬](#4-17-열-축column-axis-기준-아이템-콘텐츠-정렬)
   - [5. CSS Grid 속성 정리](#5-css-grid-속성-정리)
+  - [참고](#참고)
 </details>
 
 ## 1. CSS 레이아웃 역사
@@ -1402,6 +1403,22 @@ CSS Grid 모듈 속성을 컨테이너, 아이템 별로 정리 해봅니다.
 [grid-auto-columns    ](#4-10-그리드-행열-자동-설정)                 |
 [grid-auto-flow       ](#4-11-그리드-자동-플로우-설정)               |
 [grid                 ](#4-12-그리드-단축-속성-설정)                 |
+
+<br>
+
+[⬆︎ 목차로 이동](#목차)
+
+<br>
+
+## 참고
+
+- [CSS Grid Layout, MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+- [Complete Guide Grid, CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Grid, Codrops](https://tympanus.net/codrops/css_reference/grid)
+- [Grid Layout Slideshow](https://tympanus.net/Development/GridLayoutSlideshow/index.html)
+- [Grid by Example](https://gridbyexample.com)
+- [Box Alignment](https://rachelandrew.co.uk/css/cheatsheets/box-alignment)
+- [CSS Grid Builder](https://cssgrid.cc)
 
 <br>
 
