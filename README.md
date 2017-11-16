@@ -11,10 +11,10 @@
 
   - [1. CSS 레이아웃 역사](#1-css-레이아웃-역사)
   - [2. CSS Grid 모듈](#2-css-grid-모듈)
-    - [2-1. [W3C, CSS Grid Layout Module Level 1](https://www.w3.org/TR/css-grid-1/)](#2-1-w3c-css-grid-layout-module-level-1httpswwww3orgtrcss-grid-1)
-    - [2-2. [W3C 프로세스 (Process)](https://goo.gl/wSDU4Y) 상태](#2-2-w3c-프로세스-processhttpsgooglwsdu4y-상태)
+    - [2-1. W3C, CSS Grid Layout Module Level 1](#2-1-w3c-css-grid-layout-module-level-1)
+    - [2-2. W3C 프로세스 (Process) 상태](#2-2-w3c-프로세스-process-상태)
     - [2-3. Browser 지원 범위](#2-3-browser-지원-범위)
-    - [2-4. 대체 수단 ([Polyfill](https://github.com/codler/Grid-Layout-Polyfill))](#2-4-대체-수단-polyfillhttpsgithubcomcodlergrid-layout-polyfill)
+    - [2-4. 대체 수단 (Polyfill)](#2-4-대체-수단-polyfill)
   - [3. CSS Grid 용어](#3-css-grid-용어)
     - [3-1. Grid container](#3-1-grid-container)
     - [3-2. Grid Items](#3-2-grid-items)
