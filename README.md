@@ -1052,9 +1052,6 @@ column 자동 배치 알고리즘 설정에 암시적인 행/열 크기 설정�
   grid-template-areas:
     "header header header"
     "footer footer footer";
-    [row-1-start] "header header header" 1fr [row-1-end]
-    [row-2-start] "footer footer footer" 60px [row-2-end]
-    / auto 100px auto;
 }
 ```
 
