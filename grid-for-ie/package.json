@@ -1,0 +1,27 @@
+{
+  "name": "css-grid-project-kit-for-ie",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=6"
+  },
+  "private": true,
+  "description": "IE를 고려해야 하는 프로젝트에 CSS 그리드를 사용하기 위한 ProjectKit",
+  "scripts": {
+    "postcss": "postcss --config ./config/postcss.config.js public/css/*.css -d public/dist",
+    "watch": "npm run postcss -- -w",
+    "dev": "npm run watch | live-server ./public",
+    "build": "npm run postcss -- --env production --ext min.css",
+    "clear": "rm -rf public/dist"
+  },
+  "author": {
+    "name": "Jee Hoon",
+    "email": "yamoo9@naver.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^8.6.5",
+    "cssnano": "^4.0.0",
+    "live-server": "^1.2.0",
+    "postcss-cli": "^5.0.1"
+  }
+}
