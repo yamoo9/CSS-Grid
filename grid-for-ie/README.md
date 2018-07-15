@@ -64,6 +64,17 @@ module.exports = {
 };
 ```
 
+#### PostCSS Gap Properties 설정
+
+그리드 거터 문법이 `grid-gap`에서 `gap`으로 변경 됨에 따라 자동 변환 처리 합니다.
+
+```js
+module.exports = {
+  // 컴파일 과정에서 gap, column-gap, row-gap 속성을 보존할지 유무 설정
+  preserve: true
+};
+```
+
 #### CSS Nano 설정
 
 CSS 코드를 최적화(압축) 할 때 주석을 모두 제거하도록 설정합니다.
@@ -80,7 +91,6 @@ module.exports = {
 
   ]
 };
-
 ```
 
 
