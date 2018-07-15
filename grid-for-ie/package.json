@@ -22,6 +22,7 @@
     "autoprefixer": "^8.6.5",
     "cssnano": "^4.0.0",
     "live-server": "^1.2.0",
-    "postcss-cli": "^5.0.1"
+    "postcss-cli": "^5.0.1",
+    "postcss-gap-properties": "^1.0.0"
   }
 }
