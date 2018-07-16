@@ -6,9 +6,15 @@ Grid를 사용하면 더 이상 무거운 Grid 라이브러리나 프레임워�
 하지만 안타깝게도 Grid 기술에 익숙하지 않거나, 오래된 브라우저를 프로젝트에 고래해야 함에 따라 사용을 기피하기도 합니다.
 다행히도 PostCSS, Autoprefixer와 같은 도구를 프로젝트에 사용하면, 오래된 브라우저에서도 Grid를 사용할 수 있습니다.
 
+![](../_/autoprefixer-ie.png)
+
 ## 브라우저 호환
 
 프로젝트 키트를 사용해 개발할 경우, 별도의 Grid 대체 문법을 사용할 필요 없이 **IE 10+ 지원** 합니다.
+
+## 다운로드
+
+[CSS Grid ProjectKit for IE](https://github.com/yamoo9/CSS-Grid/raw/master/grid-for-ie/grid-for-ie-v1.0.1.zip)
 
 ## 개발 환경
 
@@ -23,6 +29,14 @@ NPM 설치 명령을 사용해 yarn 패키지를 전역 설치합니다.
 
 ```sh
 $ npm install --global yarn
+```
+
+#### 의존 모듈 설치
+
+프로젝트에서 의존하는 모듈을 모두 설치합니다.
+
+```sh
+$ yarn
 ```
 
 ## CLI 명령어
@@ -104,6 +118,7 @@ ProjectKit에 사용된 도구 정보를 확인할 수 있습니다.
 - [autoprefixer](https://github.com/postcss/autoprefixer#cli)
 - [browserlist](https://github.com/browserslist/browserslist#full-list)
 - [cssnano](https://cssnano.co)
+- [postcss-gap-properties](https://github.com/jonathantneal/postcss-gap-properties)
 - [live-server](https://www.npmjs.com/package/live-server)
 
 
