@@ -1,6 +1,6 @@
 ## CSS Grid GuideBook 2018
 
-웹 디자인 레이아웃 디자인 및 CSS Grid 레이아웃 모듈 사용법에 대해 정리한 [e북](https://uid.gitbook.io/css-grid) 입니다.<br>
+웹 디자인 레이아웃 디자인 및 CSS Grid 레이아웃 모듈 사용법에 대해 정리한 [e북](https://yamoo9.gitbook.io/css-grid) 입니다.<br>
 서둘러 대한한국에 CSS Grid를 활용한 레이아웃 디자인이 보급화 되길 기대하며 **모두가 볼 수 있도록 공개합니다.**
 
 [![](./_/css-grid-guidebook-2018.jpg)](https://yamoo9.gitbook.io/css-grid)
